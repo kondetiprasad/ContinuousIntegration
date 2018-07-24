@@ -139,7 +139,7 @@
                   <origin>origin</origin>
                </gitFlowConfig>-->
 		  		<flowInitContext>
-                     		<masterBranchName>master-OrclCiCdPOC</masterBranchName>
+                     		<masterBranchName>master2</masterBranchName>
                      		<developBranchName>dev-OrclCiCdPOC</developBranchName>
                   		</flowInitContext>
             </configuration>
