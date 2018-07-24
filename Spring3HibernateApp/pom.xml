@@ -126,8 +126,9 @@
                <pullMaster>true</pullMaster>
                <allowSnapshots>true</allowSnapshots>
                <gitFlowConfig>
-                  <masterBranchName>master-OrclCiCdPOC</masterBranchName>
-                  <developBranchName>dev-OrclCiCdPOC</developBranchName>
+                  <productionBranch>master-OrclCiCdPOC</productionBranch>
+                  <developmentBranch>dev-OrclCiCdPOC</developmentBranch>
+                  <origin>origin</origin>
                </gitFlowConfig>
             </configuration>
          </plugin>
