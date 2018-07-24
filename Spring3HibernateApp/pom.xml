@@ -125,10 +125,10 @@
                <pullDevelop>true</pullDevelop>
                <pullMaster>true</pullMaster>
                <allowSnapshots>true</allowSnapshots>
-               <flowInitContext>
+               <gitFlowConfig>
                   <masterBranchName>master-OrclCiCdPOC</masterBranchName>
                   <developBranchName>dev-OrclCiCdPOC</developBranchName>
-               </flowInitContext>
+               </gitFlowConfig>
             </configuration>
          </plugin>
          <plugin>
