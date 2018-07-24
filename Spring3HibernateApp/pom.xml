@@ -126,6 +126,7 @@
                <pullMaster>true</pullMaster>
                <allowSnapshots>true</allowSnapshots>
                <gitFlowConfig>
+                  <fetchRemote>false</fetchRemote>
                   <productionBranch>master-OrclCiCdPOC</productionBranch>
                   <developmentBranch>dev-OrclCiCdPOC</developmentBranch>
                   <!--<origin>origin</origin>-->
