@@ -128,7 +128,7 @@
                <gitFlowConfig>
                   <productionBranch>master-OrclCiCdPOC</productionBranch>
                   <developmentBranch>dev-OrclCiCdPOC</developmentBranch>
-                  <origin>origin</origin>
+                  <!--<origin>origin</origin>-->
                </gitFlowConfig>
             </configuration>
          </plugin>
